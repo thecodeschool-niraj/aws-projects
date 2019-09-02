@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SampleUserListApplication {
+public class UMApp {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SampleUserListApplication.class, args);
+		SpringApplication.run(UMApp.class, args);
 	}
 
 }
