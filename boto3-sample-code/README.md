@@ -3,10 +3,10 @@ Python developers can use BOTO3 to write program which can interact with AWS ser
 
 BOTO3 Installation and configuration:
 	
-	  Dependencies:
-      Python
-      PIP
-      AWS-CLI
+	Dependencies:
+	      Python
+	      PIP
+	      AWS-CLI
 		
     1. Download and install Python from:
 		    https://www.python.org/downloads/
@@ -20,7 +20,8 @@ BOTO3 Installation and configuration:
     3. Install Boto3 from command line:
 		    pip install awscli boto3
 		
-BOTO3 Configuration
+BOTO3 Configuration:
+
     1. Create IAM user with appropriate roles
     
     2. Create Access Key ID/Secret Access Key
