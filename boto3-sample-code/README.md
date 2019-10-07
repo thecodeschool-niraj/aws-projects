@@ -28,3 +28,5 @@ BOTO3 Configuration:
     
     3. Configure AWS-CLI (Access Key ID, Secret Access Key, Default AWS Region)
         aws configure
+	
+Test the sample BOTO3 code
